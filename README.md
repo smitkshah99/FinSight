@@ -1,22 +1,4 @@
----
-title: FinSight
-emoji: 📉
-colorFrom: pink
-colorTo: gray
-sdk: streamlit
-sdk_version: 1.30.0
-app_file: app.py
-pinned: true
-license: mit
----
 
----
-license: mit
-title: FinSight
-sdk: streamlit
-emoji: 🚀
-colorFrom: blue
----
 # FinSight: Your Financial News Companion! 🚀
 
 ## Project Overview
