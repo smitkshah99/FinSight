@@ -40,7 +40,6 @@ FinSight leverages the following technologies and components:
 - **Streamlit UI**: Presents financial news and analysis through an interactive and visually appealing Streamlit user interface.
 
 ![System Design](systemDesign.png)
-![Flow](images/IMG_3793.JPG)
 
 ## Getting Started
 
